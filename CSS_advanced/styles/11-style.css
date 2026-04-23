@@ -4,8 +4,8 @@ a {
 }
 
 :root {
-  --section-tagline-transform: uppercase;
   --section-header-align: center;
+  --section-tagline-transform: uppercase;
 }
 
 .section-header {
