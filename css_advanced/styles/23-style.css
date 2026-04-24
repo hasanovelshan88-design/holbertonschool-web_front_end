@@ -3,6 +3,8 @@
 }
 .social-link {
     display: block;
-.social-link > svg {
-    fill: var(--text-color);
+    color: var(--text-color);
+}
+.social-link svg {
+    fill: currentColor;
 }
