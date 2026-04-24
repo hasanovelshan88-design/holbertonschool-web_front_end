@@ -6,6 +6,6 @@
   display: block;
 }
 
-.social-link svg path {
-    fill: var(--text-color);
+.social-link * {
+  fill: var(--text-color);
 }
